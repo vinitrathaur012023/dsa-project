@@ -19,7 +19,10 @@ public class Stack {
     }
 
     public static void main(String[] args) {
+
+
         Stack st = new Stack();
         st.push(20);
+
     }
 }
